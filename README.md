@@ -1,2 +1,2 @@
 # T-rex
-ok
+A T-rex.
